@@ -21,6 +21,6 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/JoseCuriel04/-SharedPreferences
 
    
