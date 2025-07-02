@@ -1,16 +1,26 @@
-# flutter_application_1
+# Configuración de Tema en Flutter
 
-A new Flutter project.
+Una aplicación Flutter que permite a los usuarios cambiar entre temas claros y oscuros, guardando sus preferencias localmente usando SharedPreferences.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Cambio entre tema claro y oscuro.
+- Persistencia de preferencias de usuario.
+- Interfaz de usuario moderna y atractiva.
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos Previos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Un editor de código como [Visual Studio Code](https://code.visualstudio.com/) o [Android Studio](https://developer.android.com/studio)
+- Un dispositivo o emulador para ejecutar la aplicación
+
+## Instalación
+
+1. Clona el repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+
+   
